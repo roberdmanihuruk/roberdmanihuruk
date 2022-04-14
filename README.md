@@ -1,5 +1,5 @@
 **👋 Hi, I’m Roberd**
-- 👀 I’m interested in data
+- 👀 I'm interested in munching data
 - 🌱 I’m currently learning data science
 
 Reach me via [Linkedin](https://id.linkedin.com/in/roberdmanihuruk)
