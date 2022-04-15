@@ -1,4 +1,4 @@
-**👋 Hi, I’m Roberd**
+ ## 👋  **Hi, I’m Roberd**
 - 👀 I'm interested in munching data
 - 🌱 I’m currently learning data science
 
